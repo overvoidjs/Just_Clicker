@@ -2,7 +2,7 @@
 <widget id="itd" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>ClickerJust App</name>
     <description>
-        "Это просто Cliker ничего более. Попробуйте- увидете сами"
+        "Это просто Cliker ничего более. Попробуйте- увидите сами"
     </description>
     <author email="root@we-dev.ru" href="http://phonegap.com">
         LoisoJ
